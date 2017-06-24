@@ -1,0 +1,1265 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CompilerConfiguration">
+        <wildcardResourcePatterns>
+          <entry name="!?*.java" />
+          <entry name="!?*.form" />
+          <entry name="!?*.class" />
+          <entry name="!?*.groovy" />
+          <entry name="!?*.scala" />
+          <entry name="!?*.flex" />
+          <entry name="!?*.kt" />
+          <entry name="!?*.clj" />
+        </wildcardResourcePatterns>
+      </component>
+      <component name="Encoding" native2AsciiForPropertiesFiles="true">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="$USER_HOME$/Documents/workspace/android-doctor" value="5903720891000" />
+            <entry key="$USER_HOME$/Documents/workspace/android-personal" value="8849751256000" />
+            <entry key="$USER_HOME$/Documents/zbsgProjects/mall" value="1478480674000" />
+            <entry key="$USER_HOME$/Documents/zbsgProjects/services" value="19199587432000" />
+            <entry key="$USER_HOME$/Documents/zbsgProjects/services/platform" value="8837835665000" />
+            <entry key="$USER_HOME$/Documents/zbsgProjects/test/platform" value="1472984995000" />
+            <entry key="$USER_HOME$/IdeaProjects/gradle" value="2922277006000" />
+            <entry key="$USER_HOME$/framework" value="35394405583000" />
+            <entry key="$USER_HOME$/workspace/reactProjects/GitHubPopular/android" value="5913019289000" />
+            <entry key="$USER_HOME$/workspace/spring-restdocs/samples/rest-notes-spring-hateoas" value="1477057515000" />
+            <entry key="$USER_HOME$/workspace/springfox-demos" value="8862869596000" />
+          </map>
+        </option>
+        <option name="externalProjectsViewState">
+          <projects_view />
+        </option>
+      </component>
+      <component name="IssueNavigationConfiguration">
+        <option name="links">
+          <list>
+            <IssueNavigationLink>
+              <option name="issueRegexp" value="[A-Z]+\-\d+" />
+              <option name="linkRegexp" value="http://jira.jfantasy.org/browse/$0" />
+            </IssueNavigationLink>
+          </list>
+        </option>
+      </component>
+      <component name="JUnitGeneratorProjectSettings">
+        <option name="selectedTemplateKey" value="JUnit 4" />
+      </component>
+      <component name="MarkdownProjectSettings">
+        <PreviewSettings splitEditorLayout="SPLIT" splitEditorPreview="PREVIEW" useGrayscaleRendering="false" zoomFactor="1.25" maxImageWidth="0" showGitHubPageIfSynced="false" allowBrowsingInPreview="false" synchronizePreviewPosition="true" highlightPreviewType="NONE" highlightFadeOut="5" highlightOnTyping="true" synchronizeSourcePosition="true" verticallyAlignSourceAndPreviewSyncPosition="true" showSearchHighlightsInPreview="false" showSelectionInPreview="true">
+          <PanelProvider>
+            <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.panel" providerName="Default - Swing" />
+          </PanelProvider>
+        </PreviewSettings>
+        <ParserSettings gitHubSyntaxChange="false">
+          <PegdownExtensions>
+            <option name="ABBREVIATIONS" value="false" />
+            <option name="ANCHORLINKS" value="true" />
+            <option name="ASIDE" value="false" />
+            <option name="ATXHEADERSPACE" value="true" />
+            <option name="AUTOLINKS" value="true" />
+            <option name="DEFINITIONS" value="false" />
+            <option name="DEFINITION_BREAK_DOUBLE_BLANK_LINE" value="false" />
+            <option name="FENCED_CODE_BLOCKS" value="true" />
+            <option name="FOOTNOTES" value="false" />
+            <option name="HARDWRAPS" value="false" />
+            <option name="INSERTED" value="false" />
+            <option name="QUOTES" value="false" />
+            <option name="RELAXEDHRULES" value="true" />
+            <option name="SMARTS" value="false" />
+            <option name="STRIKETHROUGH" value="true" />
+            <option name="SUBSCRIPT" value="false" />
+            <option name="SUPERSCRIPT" value="false" />
+            <option name="SUPPRESS_HTML_BLOCKS" value="false" />
+            <option name="SUPPRESS_INLINE_HTML" value="false" />
+            <option name="TABLES" value="true" />
+            <option name="TASKLISTITEMS" value="true" />
+            <option name="TOC" value="false" />
+            <option name="WIKILINKS" value="true" />
+          </PegdownExtensions>
+          <ParserOptions>
+            <option name="COMMONMARK_LISTS" value="true" />
+            <option name="DUMMY" value="false" />
+            <option name="EMOJI_SHORTCUTS" value="true" />
+            <option name="FLEXMARK_FRONT_MATTER" value="false" />
+            <option name="GFM_LOOSE_BLANK_LINE_AFTER_ITEM_PARA" value="false" />
+            <option name="GFM_TABLE_RENDERING" value="true" />
+            <option name="GITBOOK_URL_ENCODING" value="false" />
+            <option name="GITHUB_EMOJI_URL" value="false" />
+            <option name="GITHUB_LISTS" value="false" />
+            <option name="GITHUB_WIKI_LINKS" value="true" />
+            <option name="JEKYLL_FRONT_MATTER" value="false" />
+            <option name="SIM_TOC_BLANK_LINE_SPACER" value="true" />
+          </ParserOptions>
+        </ParserSettings>
+        <HtmlSettings headerTopEnabled="false" headerBottomEnabled="false" bodyTopEnabled="false" bodyBottomEnabled="false" embedUrlContent="false" addPageHeader="true">
+          <GeneratorProvider>
+            <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.generator" providerName="Default Swing HTML Generator" />
+          </GeneratorProvider>
+          <headerTop />
+          <headerBottom />
+          <bodyTop />
+          <bodyBottom />
+        </HtmlSettings>
+        <CssSettings previewScheme="UI_SCHEME" cssUri="" isCssUriEnabled="false" isCssTextEnabled="false" isDynamicPageWidth="true">
+          <StylesheetProvider>
+            <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.css" providerName="Default Swing Stylesheet" />
+          </StylesheetProvider>
+          <ScriptProviders />
+          <cssText />
+        </CssSettings>
+        <HtmlExportSettings updateOnSave="false" parentDir="$ProjectFileDir$" targetDir="$ProjectFileDir$" cssDir="" scriptDir="" plainHtml="false" imageDir="" copyLinkedImages="false" imageUniquifyType="0" targetExt="" useTargetExt="false" noCssNoScripts="false" linkToExportedHtml="true" exportOnSettingsChange="true" regenerateOnProjectOpen="false" />
+        <LinkMapSettings>
+          <textMaps />
+        </LinkMapSettings>
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="mavenHome" value="$USER_HOME$/maven/apache-maven-3.2.1" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
+      <component name="ProjectDictionaryState">
+        <dictionary name="lmf" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Correctness</id>
+              </State>
+              <State>
+                <id>Concurrency annotation issuesJava</id>
+              </State>
+              <State>
+                <id>Declaration redundancyJava</id>
+              </State>
+              <State>
+                <id>DeclarationGroovy</id>
+              </State>
+              <State>
+                <id>GeneralJavaScript</id>
+              </State>
+              <State>
+                <id>Google Web Toolkit issues</id>
+              </State>
+              <State>
+                <id>Groovy</id>
+              </State>
+              <State>
+                <id>Initialization issuesJava</id>
+              </State>
+              <State>
+                <id>JPA issues</id>
+              </State>
+              <State>
+                <id>Java</id>
+              </State>
+              <State>
+                <id>JavaScript</id>
+              </State>
+              <State>
+                <id>Performance issuesJava</id>
+              </State>
+              <State>
+                <id>Portability issuesJava</id>
+              </State>
+              <State>
+                <id>Threading issuesGroovy</id>
+              </State>
+              <State>
+                <id>Threading issuesJava</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>gwtRawAsyncCallback</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" project-jdk-name="1.6" project-jdk-type="JavaSDK" />
+      <component name="PropertiesComponent">
+        <property name="GoToFile.includeJavaFiles" value="false" />
+        <property name="project.structure.last.edited" value="SDKs" />
+        <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+        <property name="project.structure.proportion" value="0.15" />
+        <property name="MemberChooser.sorted" value="false" />
+        <property name="recentsLimit" value="5" />
+        <property name="MemberChooser.showClasses" value="true" />
+        <property name="GoToClass.includeLibraries" value="false" />
+        <property name="project.structure.side.proportion" value="0.2" />
+        <property name="MemberChooser.copyJavadoc" value="false" />
+        <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/bth" />
+        <property name="options.lastSelected" value="preferences.pluginManager" />
+        <property name="options.splitter.main.proportions" value="0.29833335" />
+        <property name="options.splitter.details.proportions" value="0.2" />
+        <property name="options.searchVisible" value="true" />
+        <property name="restartRequiresConfirmation" value="true" />
+        <property name="settings.editor.selected.configurable" value="ics" />
+        <property name="android.sdk.path" value="$USER_HOME$/android-sdk" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.55" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.7">
+          <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/" />
+          <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8 -Drebel.spring_plugin=true -Drebel.hibernate_plugin=true -Drebel.structs2-plugin=true -Xms100m -Xmx200m -XX:PermSize=256m -XX:MaxPermSize=600m" />
+          <option name="UPDATING_POLICY" value="restart-server" />
+          <deployment>
+            <file path="$USER_HOME$/framework/jslib/fides">
+              <settings>
+                <option name="CONTEXT_PATH" value="/assets" />
+              </settings>
+            </file>
+            <file path="$USER_HOME$/framework/jslib/static">
+              <settings>
+                <option name="CONTEXT_PATH" value="/static" />
+              </settings>
+            </file>
+          </deployment>
+          <server-settings>
+            <option name="BASE_DIRECTORY_NAME" value="_Default_(Template)_Project_2" />
+          </server-settings>
+          <predefined_log_file id="Tomcat" enabled="true" />
+          <predefined_log_file id="Tomcat Catalina" enabled="true" />
+          <predefined_log_file id="Tomcat Manager" enabled="false" />
+          <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+          <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <RunnerSettings RunnerId="Cover" />
+          <RunnerSettings RunnerId="Debug">
+            <option name="DEBUG_PORT" value="50975" />
+            <option name="TRANSPORT" value="0" />
+            <option name="LOCAL" value="true" />
+          </RunnerSettings>
+          <RunnerSettings RunnerId="Debug with VisualVM">
+            <option name="DEBUG_PORT" value="53546" />
+            <option name="visualVMId" value="1427294503007348000" />
+            <option name="TRANSPORT" value="0" />
+            <option name="LOCAL" value="true" />
+          </RunnerSettings>
+          <RunnerSettings RunnerId="JRebel Debug">
+            <option name="DEBUG_PORT" value="50976" />
+            <option name="TRANSPORT" value="0" />
+            <option name="LOCAL" value="true" />
+          </RunnerSettings>
+          <RunnerSettings RunnerId="JRebel Executor" />
+          <RunnerSettings RunnerId="Run" />
+          <RunnerSettings RunnerId="Run with VisualVM" />
+          <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+            <option name="USE_ENV_VARIABLES" value="true" />
+            <STARTUP>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </STARTUP>
+            <SHUTDOWN>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </SHUTDOWN>
+          </ConfigurationWrapper>
+          <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+            <option name="USE_ENV_VARIABLES" value="true" />
+            <STARTUP>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </STARTUP>
+            <SHUTDOWN>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </SHUTDOWN>
+          </ConfigurationWrapper>
+          <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug with VisualVM">
+            <option name="USE_ENV_VARIABLES" value="true" />
+            <STARTUP>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </STARTUP>
+            <SHUTDOWN>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </SHUTDOWN>
+          </ConfigurationWrapper>
+          <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Debug">
+            <option name="USE_ENV_VARIABLES" value="true" />
+            <STARTUP>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </STARTUP>
+            <SHUTDOWN>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </SHUTDOWN>
+          </ConfigurationWrapper>
+          <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Executor">
+            <option name="USE_ENV_VARIABLES" value="true" />
+            <STARTUP>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </STARTUP>
+            <SHUTDOWN>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </SHUTDOWN>
+          </ConfigurationWrapper>
+          <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+            <option name="USE_ENV_VARIABLES" value="true" />
+            <STARTUP>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </STARTUP>
+            <SHUTDOWN>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </SHUTDOWN>
+          </ConfigurationWrapper>
+          <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run with VisualVM">
+            <option name="USE_ENV_VARIABLES" value="true" />
+            <STARTUP>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </STARTUP>
+            <SHUTDOWN>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </SHUTDOWN>
+          </ConfigurationWrapper>
+          <method />
+        </configuration>
+        <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
+          <option name="LOCAL" value="false" />
+          <deployment />
+          <server-settings>
+            <data>
+              <option name="transportHostId" value="" />
+              <host-id />
+            </data>
+          </server-settings>
+          <predefined_log_file id="Tomcat" enabled="true" />
+          <predefined_log_file id="TOMCAT_LOCALHOST_LOG_ID" enabled="true" />
+          <RunnerSettings RunnerId="Debug">
+            <option name="DEBUG_PORT" value="50983" />
+            <option name="TRANSPORT" value="0" />
+            <option name="LOCAL" value="false" />
+          </RunnerSettings>
+          <RunnerSettings RunnerId="JRebel Debug">
+            <option name="DEBUG_PORT" value="50984" />
+            <option name="TRANSPORT" value="0" />
+            <option name="LOCAL" value="false" />
+          </RunnerSettings>
+          <RunnerSettings RunnerId="JRebel Executor" />
+          <RunnerSettings RunnerId="Run" />
+          <ConfigurationWrapper RunnerId="Debug" />
+          <ConfigurationWrapper RunnerId="JRebel Debug" />
+          <ConfigurationWrapper RunnerId="JRebel Executor" />
+          <ConfigurationWrapper RunnerId="Run" />
+          <method />
+        </configuration>
+        <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+          <module name="" />
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+          <option name="PROGRAM_PARAMETERS" />
+          <predefined_log_file id="idea.log" enabled="true" />
+          <method />
+        </configuration>
+        <configuration default="true" type="#org.osmorc.OsgiConfigurationType" factoryName="OSGi Bundles" vmParameters="" programParameters="" includeAllBundlesInClassPath="false" workingDir="" useAlternativeJre="false" alternativeJrePath="" frameworkStartLevel="1" defaultStartLevel="5" generateWorkingDir="false">
+          <framework instance="" />
+          <additionalProperties startConsole="true" />
+          <RunnerSettings RunnerId="JRebel Debug">
+            <option name="DEBUG_PORT" value="" />
+            <option name="TRANSPORT" value="0" />
+            <option name="LOCAL" value="true" />
+          </RunnerSettings>
+          <method />
+        </configuration>
+        <configuration default="true" type="Applet" factoryName="Applet">
+          <option name="WIDTH" value="400" />
+          <option name="HEIGHT" value="300" />
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <module />
+          <method />
+        </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="VM_PARAMETERS" />
+          <option name="PROGRAM_PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="ENABLE_SWING_INSPECTOR" value="false" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <module name="" />
+          <envs />
+          <method />
+        </configuration>
+        <configuration default="true" type="CBConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+          <deployment />
+          <server-settings>
+            <option name="HTTP_PORT_X" value="8080" />
+            <option name="JNDI_PORT" value="1099" />
+            <option name="USERNAME" value="" />
+            <option name="PASSWORD" value="" />
+          </server-settings>
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <method />
+        </configuration>
+        <configuration default="true" type="CfmlUnitRunConfigurationType" factoryName="MXUnit" method="" path="" scope="Component" webpath="">
+          <method />
+        </configuration>
+        <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+          <method />
+        </configuration>
+        <configuration default="true" type="GlassfishConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="GlassFish 4.1.0" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="/Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home">
+          <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8 -Drebel.spring_plugin=true -Drebel.hibernate_plugin=true -Drebel.structs2-plugin=true -Xms100m -Xmx200m -XX:PermSize=256m -XX:MaxPermSize=600m" />
+          <option name="UPDATING_POLICY" value="restart-server" />
+          <deployment />
+          <server-settings>
+            <option name="DOMAIN" value="domain1" />
+            <option name="PRESERVE" value="false" />
+            <option name="COMPATIBILITY" value="false" />
+            <option name="VIRTUAL_SERVER" />
+            <option name="USERNAME" value="admin" />
+            <option name="PASSWORD" value="" />
+          </server-settings>
+          <predefined_log_file id="GlassFish" enabled="true" />
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <RunnerSettings RunnerId="Cover" />
+          <RunnerSettings RunnerId="Debug">
+            <option name="DEBUG_PORT" value="9009" />
+            <option name="TRANSPORT" value="0" />
+            <option name="LOCAL" value="true" />
+          </RunnerSettings>
+          <RunnerSettings RunnerId="JRebel Debug">
+            <option name="DEBUG_PORT" value="9009" />
+            <option name="TRANSPORT" value="0" />
+            <option name="LOCAL" value="true" />
+          </RunnerSettings>
+          <RunnerSettings RunnerId="JRebel Executor" />
+          <RunnerSettings RunnerId="Run" />
+          <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+            <option name="USE_ENV_VARIABLES" value="true" />
+            <STARTUP>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </STARTUP>
+            <SHUTDOWN>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </SHUTDOWN>
+          </ConfigurationWrapper>
+          <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+            <option name="USE_ENV_VARIABLES" value="true" />
+            <STARTUP>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </STARTUP>
+            <SHUTDOWN>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </SHUTDOWN>
+          </ConfigurationWrapper>
+          <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Debug">
+            <option name="USE_ENV_VARIABLES" value="true" />
+            <STARTUP>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </STARTUP>
+            <SHUTDOWN>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </SHUTDOWN>
+          </ConfigurationWrapper>
+          <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Executor">
+            <option name="USE_ENV_VARIABLES" value="true" />
+            <STARTUP>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </STARTUP>
+            <SHUTDOWN>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </SHUTDOWN>
+          </ConfigurationWrapper>
+          <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+            <option name="USE_ENV_VARIABLES" value="true" />
+            <STARTUP>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </STARTUP>
+            <SHUTDOWN>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </SHUTDOWN>
+          </ConfigurationWrapper>
+          <method />
+        </configuration>
+        <configuration default="true" type="GlassfishConfiguration" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
+          <option name="LOCAL" value="false" />
+          <deployment />
+          <server-settings>
+            <data>
+              <option name="transportHostId" value="" />
+              <host-id />
+            </data>
+          </server-settings>
+          <predefined_log_file id="GlassFish" enabled="true" />
+          <RunnerSettings RunnerId="Debug">
+            <option name="DEBUG_PORT" value="54832" />
+            <option name="TRANSPORT" value="0" />
+            <option name="LOCAL" value="false" />
+          </RunnerSettings>
+          <RunnerSettings RunnerId="JRebel Debug">
+            <option name="DEBUG_PORT" value="54835" />
+            <option name="TRANSPORT" value="0" />
+            <option name="LOCAL" value="false" />
+          </RunnerSettings>
+          <RunnerSettings RunnerId="JRebel Executor" />
+          <RunnerSettings RunnerId="Run" />
+          <ConfigurationWrapper RunnerId="Debug" />
+          <ConfigurationWrapper RunnerId="JRebel Debug" />
+          <ConfigurationWrapper RunnerId="JRebel Executor" />
+          <ConfigurationWrapper RunnerId="Run" />
+          <method />
+        </configuration>
+        <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+          <ExternalSystemSettings>
+            <option name="executionName" />
+            <option name="externalProjectPath" />
+            <option name="externalSystemIdString" value="GRADLE" />
+            <option name="scriptParameters" />
+            <option name="taskDescriptions">
+              <list />
+            </option>
+            <option name="taskNames">
+              <list />
+            </option>
+            <option name="vmOptions" />
+          </ExternalSystemSettings>
+          <method />
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+          <option name="ALTERNATIVE_JRE_PATH" value="1.7" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" value="" />
+          <option name="METHOD_NAME" value="" />
+          <option name="TEST_OBJECT" value="class" />
+          <option name="VM_PARAMETERS" value="-ea -Dfile.encoding=UTF-8 -Drebel.spring_plugin=true -Drebel.hibernate_plugin=true -Drebel.structs2-plugin=true -Xms100m -Xmx200m -XX:PermSize=256m -XX:MaxPermSize=600m" />
+          <option name="PARAMETERS" value="" />
+          <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="moduleWithDependencies" />
+          </option>
+          <envs />
+          <patterns />
+          <RunnerSettings RunnerId="JRebel Debug">
+            <option name="DEBUG_PORT" value="" />
+            <option name="TRANSPORT" value="0" />
+            <option name="LOCAL" value="true" />
+          </RunnerSettings>
+          <method />
+        </configuration>
+        <configuration default="true" type="JettyConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="Jetty 9.1.5.v20140505" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="/Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home">
+          <option name="UPDATING_POLICY" value="restart-server" />
+          <deployment />
+          <server-settings>
+            <data>
+              <option name="configFiles">
+                <list>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/annotations.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/client.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/continuation.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/debug.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/deploy.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="active" value="true" />
+                    <option name="path" value="modules/ext.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="active" value="true" />
+                    <option name="path" value="modules/fcgi.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="active" value="true" />
+                    <option name="path" value="modules/http.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="active" value="true" />
+                    <option name="path" value="modules/https.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="active" value="true" />
+                    <option name="path" value="modules/ipaccess.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/jaas.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/jaspi.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/jmx-remote.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/jmx.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/jndi.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/jsp.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/jvm.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/logging.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/lowresources.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/monitor.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/npn.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/plus.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/proxy.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/requestlog.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/resources.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/rewrite.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/security.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/server.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/servlet.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/servlets.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/setuid.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/spdy.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/ssl.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/stats.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/webapp.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/websocket.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/xinetd.mod" />
+                  </JettyConfigFile>
+                </list>
+              </option>
+              <option name="myConfigFiles">
+                <list>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/annotations.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/client.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/continuation.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/debug.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/deploy.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="active" value="true" />
+                    <option name="path" value="modules/ext.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="active" value="true" />
+                    <option name="path" value="modules/fcgi.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="active" value="true" />
+                    <option name="path" value="modules/http.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="active" value="true" />
+                    <option name="path" value="modules/https.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="active" value="true" />
+                    <option name="path" value="modules/ipaccess.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/jaas.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/jaspi.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/jmx-remote.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/jmx.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/jndi.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/jsp.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/jvm.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/logging.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/lowresources.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/monitor.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/npn.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/plus.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/proxy.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/requestlog.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/resources.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/rewrite.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/security.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/server.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/servlet.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/servlets.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/setuid.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/spdy.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/ssl.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/stats.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/webapp.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/websocket.mod" />
+                  </JettyConfigFile>
+                  <JettyConfigFile>
+                    <option name="path" value="modules/xinetd.mod" />
+                  </JettyConfigFile>
+                </list>
+              </option>
+            </data>
+          </server-settings>
+          <predefined_log_file id="Jetty" enabled="true" />
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <RunnerSettings RunnerId="JRebel Debug">
+            <option name="DEBUG_PORT" value="" />
+            <option name="TRANSPORT" value="0" />
+            <option name="LOCAL" value="true" />
+          </RunnerSettings>
+          <method />
+        </configuration>
+        <configuration default="true" type="JettyConfiguration" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
+          <option name="LOCAL" value="false" />
+          <deployment />
+          <server-settings>
+            <data>
+              <option name="targets">
+                <list>
+                  <StagingTargetModelImpl>
+                    <option name="name" value="STAGING" />
+                    <name>STAGING</name>
+                  </StagingTargetModelImpl>
+                  <WatchedTargetModelImpl>
+                    <option name="name" value="CONTEXT" />
+                    <name>CONTEXT</name>
+                  </WatchedTargetModelImpl>
+                </list>
+              </option>
+              <option name="transportHostId" value="" />
+              <host-id />
+            </data>
+          </server-settings>
+          <predefined_log_file id="Jetty" enabled="true" />
+          <RunnerSettings RunnerId="Debug">
+            <option name="DEBUG_PORT" value="63513" />
+            <option name="TRANSPORT" value="0" />
+            <option name="LOCAL" value="false" />
+          </RunnerSettings>
+          <RunnerSettings RunnerId="JRebel Debug">
+            <option name="DEBUG_PORT" value="63514" />
+            <option name="TRANSPORT" value="0" />
+            <option name="LOCAL" value="false" />
+          </RunnerSettings>
+          <RunnerSettings RunnerId="JRebel Executor" />
+          <RunnerSettings RunnerId="Run" />
+          <ConfigurationWrapper RunnerId="Debug" />
+          <ConfigurationWrapper RunnerId="JRebel Debug" />
+          <ConfigurationWrapper RunnerId="JRebel Executor" />
+          <ConfigurationWrapper RunnerId="Run" />
+          <method />
+        </configuration>
+        <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+          <MavenSettings>
+            <option name="myGeneralSettings" />
+            <option name="myRunnerSettings" />
+            <option name="myRunnerParameters">
+              <MavenRunnerParameters>
+                <option name="profiles">
+                  <set />
+                </option>
+                <option name="goals">
+                  <list />
+                </option>
+                <option name="profilesMap">
+                  <map />
+                </option>
+                <option name="resolveToWorkspace" value="false" />
+                <option name="workingDirPath" value="" />
+              </MavenRunnerParameters>
+            </option>
+          </MavenSettings>
+          <RunnerSettings RunnerId="JRebel Debug">
+            <option name="DEBUG_PORT" value="" />
+            <option name="TRANSPORT" value="0" />
+            <option name="LOCAL" value="true" />
+          </RunnerSettings>
+          <method />
+        </configuration>
+        <configuration default="true" type="Remote" factoryName="Remote">
+          <option name="USE_SOCKET_TRANSPORT" value="true" />
+          <option name="SERVER_MODE" value="false" />
+          <option name="SHMEM_ADDRESS" value="javadebug" />
+          <option name="HOST" value="localhost" />
+          <option name="PORT" value="5005" />
+          <method />
+        </configuration>
+        <configuration default="true" type="RemoteFlashRunConfigurationType" factoryName="Flash Remote Debug">
+          <option name="BCName" value="" />
+          <option name="debugTransport" value="USB" />
+          <option name="moduleName" value="" />
+          <option name="remoteDebugTarget" value="Computer" />
+          <option name="usbDebugPort" value="7936" />
+          <method />
+        </configuration>
+        <configuration default="true" type="TestNG" factoryName="TestNG">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="SUITE_NAME" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="GROUP_NAME" />
+          <option name="TEST_OBJECT" value="CLASS" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="OUTPUT_DIRECTORY" />
+          <option name="ANNOTATION_TYPE" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="moduleWithDependencies" />
+          </option>
+          <option name="USE_DEFAULT_REPORTERS" value="false" />
+          <option name="PROPERTIES_FILE" />
+          <envs />
+          <properties />
+          <listeners />
+          <method />
+        </configuration>
+        <configuration default="true" type="TomeeConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+          <deployment />
+          <server-settings>
+            <option name="BASE_DIRECTORY_NAME" value="_Default_(Template)_Project" />
+          </server-settings>
+          <predefined_log_file id="Tomcat" enabled="true" />
+          <predefined_log_file id="Tomcat Catalina" enabled="true" />
+          <predefined_log_file id="Tomcat Manager" enabled="false" />
+          <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+          <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <RunnerSettings RunnerId="Cover" />
+          <RunnerSettings RunnerId="Debug">
+            <option name="DEBUG_PORT" value="50955" />
+            <option name="TRANSPORT" value="0" />
+            <option name="LOCAL" value="true" />
+          </RunnerSettings>
+          <RunnerSettings RunnerId="JRebel Debug">
+            <option name="DEBUG_PORT" value="50956" />
+            <option name="TRANSPORT" value="0" />
+            <option name="LOCAL" value="true" />
+          </RunnerSettings>
+          <RunnerSettings RunnerId="JRebel Executor" />
+          <RunnerSettings RunnerId="Run" />
+          <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+            <option name="USE_ENV_VARIABLES" value="true" />
+            <STARTUP>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </STARTUP>
+            <SHUTDOWN>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </SHUTDOWN>
+          </ConfigurationWrapper>
+          <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+            <option name="USE_ENV_VARIABLES" value="true" />
+            <STARTUP>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </STARTUP>
+            <SHUTDOWN>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </SHUTDOWN>
+          </ConfigurationWrapper>
+          <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Debug">
+            <option name="USE_ENV_VARIABLES" value="true" />
+            <STARTUP>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </STARTUP>
+            <SHUTDOWN>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </SHUTDOWN>
+          </ConfigurationWrapper>
+          <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Executor">
+            <option name="USE_ENV_VARIABLES" value="true" />
+            <STARTUP>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </STARTUP>
+            <SHUTDOWN>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </SHUTDOWN>
+          </ConfigurationWrapper>
+          <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+            <option name="USE_ENV_VARIABLES" value="true" />
+            <STARTUP>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </STARTUP>
+            <SHUTDOWN>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </SHUTDOWN>
+          </ConfigurationWrapper>
+          <method />
+        </configuration>
+        <configuration default="true" type="XSLT" factoryName="XSLT">
+          <option name="myOutputFile" />
+          <option name="myOpenOutputFile" value="false" />
+          <option name="myOpenInBrowser" value="false" />
+          <option name="mySmartErrorHandling" value="true" />
+          <option name="myRunnerPort" value="34873" />
+          <option name="myVmArguments" />
+          <option name="myWorkingDirectory" />
+          <option name="myModule" />
+          <option name="myJdk" />
+          <parameters />
+          <OutputType value="CONSOLE" save-to-file="false" />
+          <FileType name="XML" />
+          <JdkChoice value="FROM_MODULE" />
+          <RunnerSettings RunnerId="JRebel Debug">
+            <option name="DEBUG_PORT" value="" />
+            <option name="TRANSPORT" value="0" />
+            <option name="LOCAL" value="true" />
+          </RunnerSettings>
+          <method />
+        </configuration>
+        <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+          <module name="" />
+          <option name="DEPLOY" value="true" />
+          <option name="ARTIFACT_NAME" value="" />
+          <option name="PM_INSTALL_OPTIONS" value="" />
+          <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+          <option name="MODE" value="default_activity" />
+          <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+          <option name="PREFERRED_AVD" value="" />
+          <option name="CLEAR_LOGCAT" value="false" />
+          <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+          <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+          <option name="FORCE_STOP_RUNNING_APP" value="true" />
+          <option name="DEBUGGER_TYPE" value="Java" />
+          <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+          <option name="PREFERRED_AVD" value="" />
+          <Java />
+          <Profilers>
+            <option name="GAPID_DISABLE_PCS" value="false" />
+          </Profilers>
+          <option name="DEEP_LINK" value="" />
+          <option name="ACTIVITY_CLASS" value="" />
+          <RunnerSettings RunnerId="JRebel Debug">
+            <option name="DEBUG_PORT" value="" />
+            <option name="TRANSPORT" value="0" />
+            <option name="LOCAL" value="true" />
+          </RunnerSettings>
+          <method>
+            <option name="Make" enabled="true" />
+            <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+          </method>
+        </configuration>
+        <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+          <Host>localhost</Host>
+          <Port>5050</Port>
+        </configuration>
+      </component>
+      <component name="SvnConfiguration">
+        <configuration>$USER_HOME$/.subversion</configuration>
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="VssConfiguration">
+        <option name="CLIENT_PATH" value="" />
+        <option name="SRCSAFEINI_PATH" value="" />
+        <option name="USER_NAME" value="" />
+        <option name="PWD" value="" />
+        <CheckoutOptions>
+          <option name="COMMENT" value="" />
+          <option name="DO_NOT_GET_LATEST_VERSION" value="false" />
+          <option name="REPLACE_WRITABLE" value="false" />
+          <option name="RECURSIVE" value="false" />
+        </CheckoutOptions>
+        <CheckinOptions>
+          <option name="COMMENT" value="" />
+          <option name="KEEP_CHECKED_OUT" value="false" />
+          <option name="RECURSIVE" value="false" />
+        </CheckinOptions>
+        <AddOptions>
+          <option name="STORE_ONLY_LATEST_VERSION" value="false" />
+          <option name="CHECK_OUT_IMMEDIATELY" value="false" />
+        </AddOptions>
+        <UndocheckoutOptions>
+          <option name="MAKE_WRITABLE" value="false" />
+          <option name="REPLACE_LOCAL_COPY" value="2" />
+          <option name="RECURSIVE" value="false" />
+        </UndocheckoutOptions>
+        <GetOptions>
+          <option name="REPLACE_WRITABLE" value="0" />
+          <option name="MAKE_WRITABLE" value="false" />
+          <option name="ANSWER_NEGATIVELY" value="false" />
+          <option name="ANSWER_POSITIVELY" value="false" />
+          <option name="RECURSIVE" value="false" />
+          <option name="VERSION" />
+        </GetOptions>
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="Copyright.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.55932206" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <last-edited>Node.js v0.10.31 Core Modules</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>1.7</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.7</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

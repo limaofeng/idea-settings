@@ -1,0 +1,13 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <token>df9edfcbdfcfdf98df93dfcfdf99df93dfc8df9ddf9bdf92df9fdfcfdfcedf98dfcfdf98dfcfdfccdf9bdfccdfcbdf9fdfcfdf9fdfccdf9adfcbdf9adfc9dfccdfcbdf9fdfc8dfcfdf9bdfccdf98dfc8</token>
+          <option name="hostUrl" value="http://sonar.zbsg.com.cn" />
+          <option name="name" value="sonar" />
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>

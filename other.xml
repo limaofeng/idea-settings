@@ -1,0 +1,456 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CodeStyleSchemes">
+    <option name="CURRENT_SCHEME_NAME" value="Default" />
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="DBNavigator.Application.Settings">
+    <enable-debug-mode value="false" />
+    <enable-developer-mode value="false" />
+    <show-plugin-conflict-dialog value="false" />
+  </component>
+  <component name="DuplocatorSettings">
+    <option name="SELECTED_PROFILES">
+      <set>
+        <option value="Java" />
+      </set>
+    </option>
+    <option name="LAST_SELECTED_LANGUAGE" value="Java" />
+  </component>
+  <component name="Error Report Configurable">
+    <option name="JIRA_LOGIN" value="" />
+    <option name="JIRA_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_JIRA_PASSWORD" value="false" />
+  </component>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="" />
+    <option name="ITN_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_ITN_PASSWORD" value="false" />
+    <option name="EMAIL" value="" />
+  </component>
+  <component name="FileEditorProviderManager">
+    <option name="selectedProviders">
+      <map>
+        <entry key="text-editor,MarkdownPreviewEditor" value="MarkdownPreviewEditor" />
+      </map>
+    </option>
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node" />
+  </component>
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="/usr/local/bin/node" version="4.2.4" last-modified="1450889224000" />
+  </component>
+  <component name="PlayframeworkConfiguration" home="" path="" show="true" />
+  <component name="PropertiesSeparatorManager">
+    <file url="resourceBundle:jar:///Users/lmf/.m2/repository/org/springframework/spring-context/4.0.5.RELEASE/spring-context-4.0.5.RELEASE.jar!/META-INF/spring" separator="\u002f" />
+    <file url="resourceBundle:jar:///Users/lmf/.m2/repository/org/springframework/spring-websocket/4.0.5.RELEASE/spring-websocket-4.0.5.RELEASE.jar!/META-INF/spring" separator="\u002f" />
+  </component>
+  <component name="RecentTaskRepositories">
+    <Generic shared="false" url="https://app.asana.com/api/1.0?access_token=0/9dfbdd1f170d0b30fe4857edf1efa693">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="downloadTasksInSeparateRequests" value="true" />
+      <password>dfc4dfe6df99dffcdfeedfc2df9edfdcdfe2dfeedfc3dff8dfd2dffc</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="loginMethodType" value="GET" />
+      <option name="loginUrl" value="https://app.asana.com" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="responseHandlers">
+        <XPathResponseHandler>
+          <selectors>
+            <selector name="tasks" path="" />
+            <selector name="id" path="" />
+            <selector name="summary" path="" />
+            <selector name="description" path="" />
+            <selector name="updated" path="" />
+            <selector name="created" path="" />
+            <selector name="issueUrl" path="" />
+            <selector name="singleTask-id" path="" />
+            <selector name="singleTask-summary" path="" />
+            <selector name="singleTask-description" path="" />
+            <selector name="singleTask-updated" path="" />
+            <selector name="singleTask-created" path="" />
+            <selector name="singleTask-issueUrl" path="" />
+          </selectors>
+        </XPathResponseHandler>
+        <JsonResponseHandler>
+          <selectors>
+            <selector name="tasks" path="data[*]" />
+            <selector name="id" path="id" />
+            <selector name="summary" path="name" />
+            <selector name="description" path="" />
+            <selector name="updated" path="" />
+            <selector name="created" path="" />
+            <selector name="closed" path="" />
+            <selector name="issueUrl" path="" />
+            <selector name="singleTask-id" path="data.id" />
+            <selector name="singleTask-summary" path="data.name" />
+            <selector name="singleTask-description" path="data.notes" />
+            <selector name="singleTask-updated" path="data.modified_at" />
+            <selector name="singleTask-created" path="data.created_at" />
+            <selector name="singleTask-closed" path="data.completed" />
+            <selector name="singleTask-issueUrl" path="" />
+          </selectors>
+        </JsonResponseHandler>
+        <RegExResponseHandler>
+          <option name="taskRegex" value="" />
+        </RegExResponseHandler>
+      </option>
+      <option name="responseType" value="JSON" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="singleTaskMethodType" value="GET" />
+      <option name="singleTaskUrl" value="{serverUrl}/tasks/{id}" />
+      <option name="subtypeName" value="Asana [G]" />
+      <option name="tasksListMethodType" value="GET" />
+      <option name="tasksListUrl" value="{serverUrl}/projects/{project_ID}/tasks?assignee=me" />
+      <option name="templateVariables">
+        <list>
+          <TemplateVariable hidden="false" readOnly="false" shownOnFirstTab="true">
+            <option name="description" value="" />
+            <option name="name" value="project_ID" />
+            <option name="value" value="57508254964591" />
+          </TemplateVariable>
+        </list>
+      </option>
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>limaofeng@msn.com</username>
+    </Generic>
+    <JIRA shared="false" url="http://jira.zbsg.com.cn">
+      <option name="apiType" value="REST_2_0" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>dfc1dfd2dff3df87dfebdfebdfcbdf87dfdbdfc4df99df87dff8dfffdfda</password>
+      <option name="inCloud" value="false" />
+      <option name="jiraVersion" value="7.3.6" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>limaofeng</username>
+    </JIRA>
+    <Generic shared="true" url="https://app.asana.com">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="downloadTasksInSeparateRequests" value="true" />
+      <password>dfc4dfe6df99dffcdfeedfc2df9edfdcdfe2dfeedfc3dff8dfd2dffc</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="loginMethodType" value="GET" />
+      <option name="loginUrl" value="https://app.asana.com" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="responseHandlers">
+        <XPathResponseHandler>
+          <selectors>
+            <selector name="tasks" path="" />
+            <selector name="id" path="" />
+            <selector name="summary" path="" />
+            <selector name="description" path="" />
+            <selector name="updated" path="" />
+            <selector name="created" path="" />
+            <selector name="issueUrl" path="" />
+            <selector name="singleTask-id" path="" />
+            <selector name="singleTask-summary" path="" />
+            <selector name="singleTask-description" path="" />
+            <selector name="singleTask-updated" path="" />
+            <selector name="singleTask-created" path="" />
+            <selector name="singleTask-issueUrl" path="" />
+          </selectors>
+        </XPathResponseHandler>
+        <JsonResponseHandler>
+          <selectors>
+            <selector name="tasks" path="data[*]" />
+            <selector name="id" path="id" />
+            <selector name="summary" path="name" />
+            <selector name="description" path="" />
+            <selector name="updated" path="" />
+            <selector name="created" path="" />
+            <selector name="closed" path="" />
+            <selector name="issueUrl" path="" />
+            <selector name="singleTask-id" path="data.id" />
+            <selector name="singleTask-summary" path="data.name" />
+            <selector name="singleTask-description" path="data.notes" />
+            <selector name="singleTask-updated" path="data.modified_at" />
+            <selector name="singleTask-created" path="data.created_at" />
+            <selector name="singleTask-closed" path="data.completed" />
+            <selector name="singleTask-issueUrl" path="" />
+          </selectors>
+        </JsonResponseHandler>
+        <RegExResponseHandler>
+          <option name="taskRegex" value="" />
+        </RegExResponseHandler>
+      </option>
+      <option name="responseType" value="JSON" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="singleTaskMethodType" value="GET" />
+      <option name="singleTaskUrl" value="{serverUrl}/tasks/{id}" />
+      <option name="subtypeName" value="Asana [G]" />
+      <option name="tasksListMethodType" value="GET" />
+      <option name="tasksListUrl" value="{serverUrl}/projects/{project_ID}/tasks?assignee=me" />
+      <option name="templateVariables">
+        <list>
+          <TemplateVariable hidden="false" readOnly="false" shownOnFirstTab="true">
+            <option name="description" value="" />
+            <option name="name" value="project_ID" />
+            <option name="value" value="57508254964591" />
+          </TemplateVariable>
+        </list>
+      </option>
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username>limaofeng@msn.com</username>
+    </Generic>
+    <JIRA shared="false" url="http://jira.hoolue.com">
+      <option name="apiType" value="REST_2_0" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>df9bdf98df99df9edf9fdf9c</password>
+      <option name="inCloud" value="false" />
+      <option name="jiraVersion" value="6.4" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved and project = XGUAHAO order by updated" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>limaofeng</username>
+    </JIRA>
+    <Gitlab shared="false" url="http://git.zbsg.com.cn">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="currentProject" />
+      <password>dfe1df9cdfe7dfd8dfdcdfc2dfe7dfd3dfdcdff8dfdfdfeddfeddfdfdf9bdffddff2dfd8dff2dffc</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="true" />
+      <username />
+    </Gitlab>
+    <JIRA shared="true" url="http://192.168.1.16:8080">
+      <option name="apiType" value="REST_2_0" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>dfc6dfc3dfc7dfccdf9bdf98df99df9edf9fdf9c</password>
+      <option name="inCloud" value="false" />
+      <option name="jiraVersion" value="6.3.6" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>limf</username>
+    </JIRA>
+    <Generic shared="false" url="https://app.asana.com/api/1.0">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="downloadTasksInSeparateRequests" value="true" />
+      <password>dfc4dfe6df99dffcdfeedfc2df9edfdcdfe2dfeedfc3dff8dfd2dffc</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="loginMethodType" value="GET" />
+      <option name="loginUrl" value="" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="responseHandlers">
+        <XPathResponseHandler>
+          <selectors>
+            <selector name="tasks" path="" />
+            <selector name="id" path="" />
+            <selector name="summary" path="" />
+            <selector name="description" path="" />
+            <selector name="updated" path="" />
+            <selector name="created" path="" />
+            <selector name="issueUrl" path="" />
+            <selector name="singleTask-id" path="" />
+            <selector name="singleTask-summary" path="" />
+            <selector name="singleTask-description" path="" />
+            <selector name="singleTask-updated" path="" />
+            <selector name="singleTask-created" path="" />
+            <selector name="singleTask-issueUrl" path="" />
+          </selectors>
+        </XPathResponseHandler>
+        <JsonResponseHandler>
+          <selectors>
+            <selector name="tasks" path="data[*]" />
+            <selector name="id" path="id" />
+            <selector name="summary" path="name" />
+            <selector name="description" path="" />
+            <selector name="updated" path="" />
+            <selector name="created" path="" />
+            <selector name="closed" path="" />
+            <selector name="issueUrl" path="" />
+            <selector name="singleTask-id" path="data.id" />
+            <selector name="singleTask-summary" path="data.name" />
+            <selector name="singleTask-description" path="data.notes" />
+            <selector name="singleTask-updated" path="data.modified_at" />
+            <selector name="singleTask-created" path="data.created_at" />
+            <selector name="singleTask-closed" path="data.completed" />
+            <selector name="singleTask-issueUrl" path="" />
+          </selectors>
+        </JsonResponseHandler>
+        <RegExResponseHandler>
+          <option name="taskRegex" value="" />
+        </RegExResponseHandler>
+      </option>
+      <option name="responseType" value="JSON" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="singleTaskMethodType" value="GET" />
+      <option name="singleTaskUrl" value="{serverUrl}/tasks/{id}" />
+      <option name="subtypeName" value="Asana [G]" />
+      <option name="tasksListMethodType" value="GET" />
+      <option name="tasksListUrl" value="{serverUrl}/projects/{project_ID}/tasks?assignee=me" />
+      <option name="templateVariables">
+        <list>
+          <TemplateVariable hidden="false" readOnly="false" shownOnFirstTab="true">
+            <option name="description" value="" />
+            <option name="name" value="project_ID" />
+            <option name="value" value="101929935150021" />
+          </TemplateVariable>
+        </list>
+      </option>
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username>limaofeng@msn.com</username>
+    </Generic>
+    <Gitlab shared="false" url="https://git.zbsg.com.cn">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="currentProject" />
+      <password>dfc5dfdddf9bdfd0dfdbdfdbdf98dfd8dfcedfebdfe4df9fdfc2dffddfc9dfc0dfdfdfe4dfe2dfcf</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username />
+    </Gitlab>
+    <JIRA shared="false" url="http://jira.jfantasy.org">
+      <option name="apiType" value="REST_2_0" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>df9bdf98df99df9edf9fdf9c</password>
+      <option name="inCloud" value="false" />
+      <option name="jiraVersion" value="6.4" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved and project = 'FRAMEWORK' order by updated" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>limaofeng</username>
+    </JIRA>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_PACKAGE" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_PACKAGE" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_SEARCH_IN_COMMENTS" value="false" />
+    <option name="MOVE_SEARCH_FOR_TEXT" value="false" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+  <component name="SelectProjectTemplateSettings">
+    <option name="EXPERT_MODE" value="true" />
+    <option name="LAST_TEMPLATE" value="Java/Java" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="http://180.153.192.98/project/yachting/source/yachting-manage-system" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="http://180.153.192.98/project/yachting/source/yachting-manage-system" />
+        <option value="http://haolue.jfantasy.org/svn/hq" />
+        <option value="http://haolue.jfantasy.org/svn/ruochu/" />
+        <option value="http://haolue.jfantasy,org/svn/ruochu" />
+        <option value="http://haolue.jfantasy.org/svn/yr2" />
+        <option value="http://haoleu.jfantasy.org/svn/" />
+        <option value="http://haolue.jfantasy.org/svn/bth" />
+        <option value="http://haolue.jfantasy.org/svn/framework/" />
+        <option value="http://192.168.1.200/svn/static/branches/" />
+        <option value="http://haolue.jfantasy.org/svn/rex/trunk/" />
+        <option value="http://haolue.jfantasy.org/svn/http://haolue.jfantasy.org/svn/framework/trunk/" />
+        <option value="http://svn.jfantasy.org/rex" />
+        <option value="http://svn.jfantasy.org/rex/" />
+        <option value="http://haolue.vicp.cc/svn/vshop/" />
+        <option value="http://haolue.vicp.cc/svn/sgp/trunk/" />
+        <option value="http://haolue.vicp.cc/svn/framework" />
+        <option value="http://haolue.vicp.cc/svn/framework/branches/" />
+        <option value="http://haolue.vicp.cc/svn/static/trunk/" />
+        <option value="http://haolue.vicp.cc/svn/framework/branches/webapp/" />
+        <option value="http://haolue.vicp.cc/svn/webapp" />
+      </list>
+    </option>
+  </component>
+  <component name="SvnBranchMapperManager">
+    <option name="myMapping">
+      <map>
+        <entry key="http://haolue.jfantasy.org/svn/static/trunk">
+          <value>
+            <set>
+              <option value="$USER_HOME$/fantasy_projects/static" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="SystemNotifications">
+    <option name="NOTIFICATIONS">
+      <set>
+        <option value="Compiler (errors)" />
+        <option value="Compiler (success)" />
+        <option value="TestRunner" />
+        <option value="VCS Commit" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" />
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl">
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
+    <ignored-resource url="tapestry:parameter" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="http://exslt.org/math" />
+    <ignored-resource url="http://exslt.org/dynamic" />
+    <ignored-resource url="http://exslt.org/common" />
+    <ignored-resource url="http://exslt.org/sets" />
+    <ignored-resource url="http://exslt.org/strings" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
+  </component>
+  <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" COMPARISON_POLICY="Ignore spaces" HIGHLIGHT_MODE="BY_WORD" />
+</application>

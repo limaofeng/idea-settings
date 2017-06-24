@@ -1,0 +1,124 @@
+<application>
+  <component name="SettingsState">
+    <option name="host" value="http://git.zbsg.com.cn" />
+    <option name="token" value="yirs8gA28gd-VyMGRRSU" />
+    <option name="projects">
+      <list>
+        <ProjectDto>
+          <option name="httpUrl" value="http://git.zbsg.com.cn/android/doctor.git" />
+          <option name="name" value="doctor" />
+          <option name="namespace" value="android" />
+          <option name="sshUrl" value="git@git.zbsg.com.cn:android/doctor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://git.zbsg.com.cn/android/personal.git" />
+          <option name="name" value="personal" />
+          <option name="namespace" value="android" />
+          <option name="sshUrl" value="git@git.zbsg.com.cn:android/personal.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://git.zbsg.com.cn/apis/archives.git" />
+          <option name="name" value="archives" />
+          <option name="namespace" value="apis" />
+          <option name="sshUrl" value="git@git.zbsg.com.cn:apis/archives.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://git.zbsg.com.cn/apis/auth.git" />
+          <option name="name" value="auth" />
+          <option name="namespace" value="apis" />
+          <option name="sshUrl" value="git@git.zbsg.com.cn:apis/auth.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://git.zbsg.com.cn/apis/cms.git" />
+          <option name="name" value="cms" />
+          <option name="namespace" value="apis" />
+          <option name="sshUrl" value="git@git.zbsg.com.cn:apis/cms.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://git.zbsg.com.cn/apis/common.git" />
+          <option name="name" value="common" />
+          <option name="namespace" value="apis" />
+          <option name="sshUrl" value="git@git.zbsg.com.cn:apis/common.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://git.zbsg.com.cn/apis/framework.git" />
+          <option name="name" value="framework" />
+          <option name="namespace" value="apis" />
+          <option name="sshUrl" value="git@git.zbsg.com.cn:apis/framework.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://git.zbsg.com.cn/apis/gateway.git" />
+          <option name="name" value="gateway" />
+          <option name="namespace" value="apis" />
+          <option name="sshUrl" value="git@git.zbsg.com.cn:apis/gateway.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://git.zbsg.com.cn/apis/mcenter.git" />
+          <option name="name" value="mcenter" />
+          <option name="namespace" value="apis" />
+          <option name="sshUrl" value="git@git.zbsg.com.cn:apis/mcenter.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://git.zbsg.com.cn/apis/pay.git" />
+          <option name="name" value="pay" />
+          <option name="namespace" value="apis" />
+          <option name="sshUrl" value="git@git.zbsg.com.cn:apis/pay.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://git.zbsg.com.cn/apis/platform.git" />
+          <option name="name" value="platform" />
+          <option name="namespace" value="apis" />
+          <option name="sshUrl" value="git@git.zbsg.com.cn:apis/platform.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://git.zbsg.com.cn/apis/services.git" />
+          <option name="name" value="services" />
+          <option name="namespace" value="apis" />
+          <option name="sshUrl" value="git@git.zbsg.com.cn:apis/services.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://git.zbsg.com.cn/ios/doctor.git" />
+          <option name="name" value="doctor" />
+          <option name="namespace" value="ios" />
+          <option name="sshUrl" value="git@git.zbsg.com.cn:ios/doctor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://git.zbsg.com.cn/ios/personal.git" />
+          <option name="name" value="personal" />
+          <option name="namespace" value="ios" />
+          <option name="sshUrl" value="git@git.zbsg.com.cn:ios/personal.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://git.zbsg.com.cn/limaofeng/git-subtree.git" />
+          <option name="name" value="git-subtree" />
+          <option name="namespace" value="limaofeng" />
+          <option name="sshUrl" value="git@git.zbsg.com.cn:limaofeng/git-subtree.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://git.zbsg.com.cn/mayanfei/files.git" />
+          <option name="name" value="files" />
+          <option name="namespace" value="mayanfei" />
+          <option name="sshUrl" value="git@git.zbsg.com.cn:mayanfei/files.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://git.zbsg.com.cn/web/admin.git" />
+          <option name="name" value="admin" />
+          <option name="namespace" value="web" />
+          <option name="sshUrl" value="git@git.zbsg.com.cn:web/admin.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://git.zbsg.com.cn/web/CustomerService.git" />
+          <option name="name" value="CustomerService" />
+          <option name="namespace" value="web" />
+          <option name="sshUrl" value="git@git.zbsg.com.cn:web/CustomerService.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://git.zbsg.com.cn/web/website.git" />
+          <option name="name" value="website" />
+          <option name="namespace" value="web" />
+          <option name="sshUrl" value="git@git.zbsg.com.cn:web/website.git" />
+        </ProjectDto>
+      </list>
+    </option>
+  </component>
+</application>

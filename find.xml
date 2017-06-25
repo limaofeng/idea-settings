@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
       <mask>*.ja</mask>
       <mask>*.j a</mask>
@@ -15,13 +15,6 @@
       <mask>*.ga</mask>
       <mask>*.a</mask>
       <mask>*.</mask>
-      <mask>*.g</mask>
-      <mask>*.gr</mask>
-      <mask>*.gra</mask>
-      <mask>*.grade</mask>
-      <mask>*.grad</mask>
-      <mask>*.gradl</mask>
-      <mask>*.gradle</mask>
       <mask>*.p</mask>
       <mask>*.p r</mask>
       <mask>*.p ro</mask>
@@ -39,6 +32,13 @@
       <mask>*.xml</mask>
       <mask>*.j</mask>
       <mask>*.java</mask>
+      <mask>*.g</mask>
+      <mask>*.gr</mask>
+      <mask>*.gra</mask>
+      <mask>*.grade</mask>
+      <mask>*.grad</mask>
+      <mask>*.gradl</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>

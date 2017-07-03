@@ -27,12 +27,12 @@
       <mask>jv</mask>
       <mask>v</mask>
       <mask>*</mask>
-      <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
       <mask>*.f</mask>
       <mask>*.</mask>
+      <mask>*.java</mask>
       <mask>*.g</mask>
       <mask>*.gr</mask>
       <mask>*.gra</mask>

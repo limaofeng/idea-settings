@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="bpmn" type="BPMN_EDITOR" />
       <mapping ext="hjs" type="Handlebars/Mustache" />
       <mapping pattern="123" type="PLAIN_TEXT" />
       <mapping pattern="xx" type="PLAIN_TEXT" />

@@ -7,8 +7,27 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.gradle" />
+    <option name="FILE_MASK" value="*.*" />
     <recentFileMasks>
+      <mask>jv</mask>
+      <mask>v</mask>
+      <mask>*</mask>
+      <mask>*.f</mask>
+      <mask>*.</mask>
+      <mask>*.p r</mask>
+      <mask>*.ja</mask>
+      <mask>*.prp</mask>
+      <mask>*.propet</mask>
+      <mask>*.property</mask>
+      <mask>*.g</mask>
+      <mask>*.gr</mask>
+      <mask>*.gra</mask>
+      <mask>*.grad</mask>
+      <mask>*.gradl</mask>
+      <mask>*.gradle</mask>
+      <mask>*.p</mask>
+      <mask>*.pr</mask>
+      <mask>*.pro</mask>
       <mask>*.prop</mask>
       <mask>*.prope</mask>
       <mask>*.proper</mask>
@@ -16,29 +35,10 @@
       <mask>*.properti</mask>
       <mask>*.propertie</mask>
       <mask>*.properties</mask>
-      <mask>*.x</mask>
-      <mask>*.xm</mask>
-      <mask>*.xml</mask>
-      <mask>*.grade</mask>
-      <mask>j</mask>
-      <mask>ja</mask>
-      <mask>java</mask>
-      <mask>jav</mask>
-      <mask>jv</mask>
-      <mask>v</mask>
-      <mask>*</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
       <mask>*.j</mask>
-      <mask>*.f</mask>
-      <mask>*.</mask>
+      <mask>*.jav</mask>
       <mask>*.java</mask>
-      <mask>*.g</mask>
-      <mask>*.gr</mask>
-      <mask>*.gra</mask>
-      <mask>*.grad</mask>
-      <mask>*.gradl</mask>
-      <mask>*.gradle</mask>
+      <mask>*.*</mask>
     </recentFileMasks>
   </component>
 </application>

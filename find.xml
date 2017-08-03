@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*.gr" />
     <recentFileMasks>
       <mask>v</mask>
       <mask>*</mask>
@@ -31,12 +31,12 @@
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.g</mask>
-      <mask>*.gr</mask>
       <mask>*.gra</mask>
       <mask>*.gradle</mask>
       <mask>*.*</mask>
+      <mask>*.</mask>
+      <mask>*.g</mask>
+      <mask>*.gr</mask>
     </recentFileMasks>
   </component>
 </application>

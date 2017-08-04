@@ -5,38 +5,38 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="application-test.properties" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
+      <mask>*.p r</mask>
+      <mask>*.prp</mask>
+      <mask>*.propet</mask>
+      <mask>*.property</mask>
+      <mask>*.p</mask>
+      <mask>*.pr</mask>
+      <mask>*.pro</mask>
+      <mask>*.prop</mask>
+      <mask>*.prope</mask>
+      <mask>*.proper</mask>
+      <mask>*.propert</mask>
+      <mask>*.properti</mask>
+      <mask>*.propertie</mask>
+      <mask>*.properties</mask>
       <mask>*.grade</mask>
-      <mask>*.gradl</mask>
+      <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.*</mask>
+      <mask>*.g r</mask>
+      <mask>*.g ra p</mask>
+      <mask>*.g r a</mask>
       <mask>*.</mask>
       <mask>*.g</mask>
       <mask>*.gr</mask>
       <mask>*.gra</mask>
       <mask>*.grad</mask>
+      <mask>*.gradl</mask>
       <mask>*.gradle</mask>
-      <mask>*.p</mask>
-      <mask>*.pr</mask>
-      <mask>*.pro</mask>
-      <mask>*.prop</mask>
-      <mask>*.properties</mask>
-      <mask>.properties</mask>
-      <mask>a.properties</mask>
-      <mask>ap.properties</mask>
-      <mask>app.properties</mask>
-      <mask>appl.properties</mask>
-      <mask>appli.properties</mask>
-      <mask>applic.properties</mask>
-      <mask>applica.properties</mask>
-      <mask>applicat.properties</mask>
-      <mask>applicati.properties</mask>
-      <mask>applicatio.properties</mask>
-      <mask>application.properties</mask>
-      <mask>application-.properties</mask>
-      <mask>application-t.properties</mask>
-      <mask>application-te.properties</mask>
-      <mask>application-tes.properties</mask>
-      <mask>application-test.properties</mask>
     </recentFileMasks>
   </component>
 </application>

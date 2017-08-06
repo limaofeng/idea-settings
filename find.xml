@@ -5,9 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.gradle" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*.p r</mask>
       <mask>*.prp</mask>
       <mask>*.propet</mask>
       <mask>*.property</mask>
@@ -25,7 +24,6 @@
       <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
-      <mask>*.j</mask>
       <mask>*.*</mask>
       <mask>*.g r</mask>
       <mask>*.g ra p</mask>
@@ -37,6 +35,8 @@
       <mask>*.grad</mask>
       <mask>*.gradl</mask>
       <mask>*.gradle</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>

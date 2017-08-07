@@ -5,12 +5,11 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
       <mask>*.prp</mask>
       <mask>*.propet</mask>
       <mask>*.property</mask>
-      <mask>*.p</mask>
       <mask>*.pr</mask>
       <mask>*.pro</mask>
       <mask>*.prop</mask>
@@ -19,7 +18,6 @@
       <mask>*.propert</mask>
       <mask>*.properti</mask>
       <mask>*.propertie</mask>
-      <mask>*.properties</mask>
       <mask>*.grade</mask>
       <mask>*.java</mask>
       <mask>*.jav</mask>
@@ -28,15 +26,17 @@
       <mask>*.g r</mask>
       <mask>*.g ra p</mask>
       <mask>*.g r a</mask>
-      <mask>*.</mask>
       <mask>*.g</mask>
       <mask>*.gr</mask>
       <mask>*.gra</mask>
       <mask>*.grad</mask>
       <mask>*.gradl</mask>
       <mask>*.gradle</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>

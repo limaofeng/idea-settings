@@ -1,15 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
     <option name="localWholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.property</mask>
       <mask>*.pr</mask>
@@ -21,7 +19,6 @@
       <mask>*.properti</mask>
       <mask>*.propertie</mask>
       <mask>*.grade</mask>
-      <mask>*.jav</mask>
       <mask>*.*</mask>
       <mask>*.g r</mask>
       <mask>*.g ra p</mask>
@@ -32,15 +29,16 @@
       <mask>*.grad</mask>
       <mask>*.gradl</mask>
       <mask>*.gradle</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.properties</mask>
       <mask>*.jva</mask>
       <mask>*.jv</mask>
       <mask>*.ja</mask>
-      <mask>*.java</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>

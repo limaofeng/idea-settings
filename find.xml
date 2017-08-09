@@ -2,10 +2,12 @@
   <component name="FindSettings">
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
+    <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.proper</mask>
       <mask>*.propert</mask>
@@ -23,9 +25,7 @@
       <mask>*.properties</mask>
       <mask>*.jva</mask>
       <mask>*.jv</mask>
-      <mask>*.ja</mask>
       <mask>*.jav</mask>
-      <mask>*.java</mask>
       <mask>*.graphqls</mask>
       <mask>*.graphql</mask>
       <mask>*.graphq</mask>
@@ -34,9 +34,11 @@
       <mask>*.gra</mask>
       <mask>*.gr</mask>
       <mask>*.g</mask>
+      <mask>*.js</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
-      <mask>*.js</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>

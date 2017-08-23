@@ -122,6 +122,14 @@
           <option name="url" value="git@git.zbsg.com.cn:apis/platform/cms.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.zbsg.com.cn:apis/Information/zpush.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.zbsg.com.cn:limaofeng/blog.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/Workspace" />

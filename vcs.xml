@@ -134,8 +134,12 @@
           <option name="url" value="git@git.zbsg.com.cn:apis/services.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gist.github.com:681537b8733e37c98385ef274bbdc85d.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/Workspace" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Gist" />
   </component>
 </application>

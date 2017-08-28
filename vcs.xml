@@ -140,6 +140,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/Gist" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Workspace" />
   </component>
 </application>

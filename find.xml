@@ -5,9 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.properties" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>*.properti</mask>
       <mask>*.propertie</mask>
       <mask>*.grade</mask>
       <mask>*.*</mask>
@@ -31,12 +30,13 @@
       <mask>*.ja</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
-      <mask>*.</mask>
       <mask>*.java</mask>
       <mask>*.p</mask>
       <mask>*.pr</mask>
       <mask>*.pro</mask>
       <mask>*.properties</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>

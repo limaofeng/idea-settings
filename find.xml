@@ -7,12 +7,8 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
-      <mask>*.*</mask>
-      <mask>*.g r</mask>
-      <mask>*.g ra p</mask>
-      <mask>*.g r a</mask>
       <mask>*.grad</mask>
       <mask>*.gradl</mask>
       <mask>*.gradle</mask>
@@ -28,17 +24,21 @@
       <mask>*.gr</mask>
       <mask>*.g</mask>
       <mask>*.ja</mask>
-      <mask>*.j</mask>
       <mask>*.java</mask>
       <mask>*.p</mask>
       <mask>*.pr</mask>
       <mask>*.pro</mask>
       <mask>*.properties</mask>
-      <mask>*.</mask>
       <mask>*</mask>
       <mask>j</mask>
       <mask>js</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.l</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>

@@ -2,24 +2,16 @@
   <component name="FindSettings">
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
-    <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
-      <mask>*.gradle</mask>
-      <mask>*.jva</mask>
-      <mask>*.jv</mask>
       <mask>*.graphqls</mask>
       <mask>*.graphql</mask>
       <mask>*.graphq</mask>
       <mask>*.graph</mask>
       <mask>*.grap</mask>
-      <mask>*.gra</mask>
-      <mask>*.gr</mask>
-      <mask>*.g</mask>
       <mask>*.p</mask>
       <mask>*.pr</mask>
       <mask>*.pro</mask>
@@ -35,10 +27,16 @@
       <mask>*.ja</mask>
       <mask>*.a</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.</mask>
+      <mask>*.g</mask>
+      <mask>*.gr</mask>
+      <mask>*.gra</mask>
+      <mask>*.grad</mask>
+      <mask>*.gradl</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>

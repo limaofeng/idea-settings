@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.gradle" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.graphq</mask>
       <mask>*.graph</mask>
@@ -23,10 +23,7 @@
       <mask>*.less</mask>
       <mask>*.jaa</mask>
       <mask>*.a</mask>
-      <mask>*.java</mask>
-      <mask>*.jav</mask>
       <mask>*.ja</mask>
-      <mask>*.j</mask>
       <mask>*</mask>
       <mask>*.tr</mask>
       <mask>*.t</mask>
@@ -37,6 +34,9 @@
       <mask>*.grad</mask>
       <mask>*.gradl</mask>
       <mask>*.gradle</mask>
+      <mask>*.j</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>

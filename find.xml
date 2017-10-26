@@ -2,43 +2,41 @@
   <component name="FindSettings">
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
-    <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.less" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
-      <mask>*.grad</mask>
-      <mask>*.gradl</mask>
-      <mask>*.gradle</mask>
-      <mask>*.jva</mask>
-      <mask>*.jv</mask>
-      <mask>*.jav</mask>
-      <mask>*.graphqls</mask>
-      <mask>*.graphql</mask>
-      <mask>*.graphq</mask>
       <mask>*.graph</mask>
       <mask>*.grap</mask>
-      <mask>*.gra</mask>
-      <mask>*.gr</mask>
-      <mask>*.g</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
       <mask>*.p</mask>
       <mask>*.pr</mask>
       <mask>*.pro</mask>
       <mask>*.properties</mask>
-      <mask>*</mask>
       <mask>j</mask>
       <mask>js</mask>
       <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.l</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
+      <mask>*.jaa</mask>
+      <mask>*.a</mask>
+      <mask>*.ja</mask>
+      <mask>*</mask>
+      <mask>*.tr</mask>
+      <mask>*.t</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
+      <mask>*.g</mask>
+      <mask>*.gr</mask>
+      <mask>*.gra</mask>
+      <mask>*.grade</mask>
+      <mask>*.grad</mask>
+      <mask>*.gradl</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>

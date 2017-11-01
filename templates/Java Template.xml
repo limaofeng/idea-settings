@@ -1,0 +1,7 @@
+<templateSet group="Java Template">
+  <template name="*" value="*&#10; * @Title: ${file_name}&#10; * @Package ${package_name}&#10; * @Description: TODO&#10; * @author syncwt&#10; * @date ${date} ${time}&#10; * @version V1.0&#10; */&#10; " toReformat="false" toShortenFQNames="true" deactivated="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

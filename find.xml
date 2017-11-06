@@ -3,28 +3,12 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.factories" />
     <recentFileMasks>
-      <mask>*.graph</mask>
-      <mask>*.grap</mask>
-      <mask>*.p</mask>
-      <mask>*.pr</mask>
-      <mask>*.pro</mask>
-      <mask>*.properties</mask>
-      <mask>j</mask>
-      <mask>js</mask>
-      <mask>*.js</mask>
-      <mask>*.l</mask>
-      <mask>*.le</mask>
-      <mask>*.les</mask>
-      <mask>*.less</mask>
       <mask>*.jaa</mask>
       <mask>*.a</mask>
-      <mask>*.ja</mask>
-      <mask>*</mask>
       <mask>*.tr</mask>
       <mask>*.t</mask>
-      <mask>*.</mask>
       <mask>*.g</mask>
       <mask>*.gr</mask>
       <mask>*.gra</mask>
@@ -32,9 +16,25 @@
       <mask>*.grad</mask>
       <mask>*.gradl</mask>
       <mask>*.gradle</mask>
-      <mask>*.j</mask>
-      <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.*</mask>
+      <mask>*.p</mask>
+      <mask>*.pr</mask>
+      <mask>*.properties</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.f</mask>
+      <mask>*.fa</mask>
+      <mask>*.fac</mask>
+      <mask>*.fact</mask>
+      <mask>*.facto</mask>
+      <mask>*.factor</mask>
+      <mask>*.factori</mask>
+      <mask>*.factorie</mask>
+      <mask>*.factories</mask>
     </recentFileMasks>
   </component>
 </application>

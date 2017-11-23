@@ -5,27 +5,15 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
-      <mask>*.jaa</mask>
-      <mask>*.a</mask>
       <mask>*.tr</mask>
       <mask>*.t</mask>
-      <mask>*.g</mask>
-      <mask>*.gr</mask>
-      <mask>*.gra</mask>
       <mask>*.grade</mask>
-      <mask>*.grad</mask>
-      <mask>*.gradl</mask>
-      <mask>*.gradle</mask>
-      <mask>*.ja</mask>
-      <mask>*.j</mask>
       <mask>*.*</mask>
       <mask>*.p</mask>
       <mask>*.pr</mask>
       <mask>*.properties</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.f</mask>
       <mask>*.fa</mask>
       <mask>*.fac</mask>
@@ -35,8 +23,20 @@
       <mask>*.factori</mask>
       <mask>*.factorie</mask>
       <mask>*.factories</mask>
-      <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*。</mask>
+      <mask>*=</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.g</mask>
+      <mask>*.gr</mask>
+      <mask>*.gra</mask>
+      <mask>*.grad</mask>
+      <mask>*.gradl</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>

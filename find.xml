@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.gradle" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.tr</mask>
       <mask>*.t</mask>
@@ -23,10 +23,7 @@
       <mask>*.factori</mask>
       <mask>*.factorie</mask>
       <mask>*.factories</mask>
-      <mask>*.java</mask>
-      <mask>*.jav</mask>
       <mask>*.ja</mask>
-      <mask>*.j</mask>
       <mask>*。</mask>
       <mask>*=</mask>
       <mask>*</mask>
@@ -37,6 +34,9 @@
       <mask>*.grad</mask>
       <mask>*.gradl</mask>
       <mask>*.gradle</mask>
+      <mask>*.j</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>

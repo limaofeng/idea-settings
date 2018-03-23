@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
       <mask>*.tr</mask>
       <mask>*.t</mask>
@@ -33,10 +33,10 @@
       <mask>*.gra</mask>
       <mask>*.grad</mask>
       <mask>*.gradl</mask>
-      <mask>*.gradle</mask>
       <mask>*.j</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>

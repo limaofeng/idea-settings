@@ -113,6 +113,7 @@
   <action id="Rerun">
     <keyboard-shortcut first-keystroke="ctrl alt 5" />
   </action>
+  <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShowContent" />
   <action id="Stop">
     <keyboard-shortcut first-keystroke="ctrl alt 2" />

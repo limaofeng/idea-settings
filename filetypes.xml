@@ -4,6 +4,7 @@
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping ext="database" type="PLAIN_TEXT" />
       <mapping ext="box" type="PLAIN_TEXT" />
       <mapping ext="gql" type="GraphQL" />
     </extensionMap>

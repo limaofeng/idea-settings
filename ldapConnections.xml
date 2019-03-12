@@ -5,7 +5,7 @@
         <LdapConnectionInfo>
           <option name="auth" value="true" />
           <option name="baseDn" value="dc=homeword,dc=cn" />
-          <option name="host" value="192.168.3.35" />
+          <option name="host" value="ldap.homeword.cn" />
           <option name="name" value="whir" />
           <option name="opened" value="true" />
           <option name="password" value="U+@v7WNk86r8@Uc3" />

@@ -1,5 +1,12 @@
 <application>
   <component name="GrepConsole">
+    <option name="donationNagger">
+      <DonationNagger>
+        <option name="actionsExecuted" value="1" />
+        <option name="firstUsage" value="1552618532348" />
+        <option name="firstUsedVersion" value="8.6.162.000.5" />
+      </DonationNagger>
+    </option>
     <option name="profiles">
       <list>
         <Profile>
@@ -11,7 +18,6 @@
                   <list>
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*FATAL.*" />
-                      <option name="id" value="01e10cdf-78ce-4a35-b2f4-f03a13e42253" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -26,13 +32,11 @@
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
-                          <option name="id" value="4acbadb0-2cdb-4a69-bf8a-0dfc70d8c239" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*ERROR.*" />
-                      <option name="id" value="ca6d9921-fd87-4696-a9a2-18da4877c15d" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -46,13 +50,11 @@
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
-                          <option name="id" value="d5c4e836-3983-4895-80df-45292acd0c5d" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*WARN.*" />
-                      <option name="id" value="31df7c2c-b4f9-471b-b0a6-6d030a005dbd" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -66,13 +68,11 @@
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
-                          <option name="id" value="315924e7-d231-45f6-a4fa-8f04e9abcaca" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*DEBUG.*" />
-                      <option name="id" value="1721bcc5-0262-46bc-a52b-32fecae93f70" />
                       <option name="style">
                         <GrepStyle>
                           <option name="foregroundColor">
@@ -81,13 +81,11 @@
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
-                          <option name="id" value="aabf6348-f91e-454b-8f6a-35f8b514d5fb" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*TRACE.*" />
-                      <option name="id" value="81d92b49-bcd7-4c90-b2b4-2c53c8fb07a3" />
                       <option name="style">
                         <GrepStyle>
                           <option name="foregroundColor">
@@ -95,7 +93,6 @@
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
-                          <option name="id" value="73e41021-8946-4911-86bc-95ef38c6074e" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
@@ -110,5 +107,6 @@
         </Profile>
       </list>
     </option>
+    <option name="version" value="1" />
   </component>
 </application>

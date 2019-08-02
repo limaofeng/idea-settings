@@ -1,0 +1,13 @@
+<application>
+  <component name="SettingsState">
+    <option name="gitlabServers">
+      <list>
+        <GitlabServer>
+          <option name="apiToken" value="mb_csgcDiJpQXo3EQ-wC" />
+          <option name="apiUrl" value="https://gitlab.homeword.cn" />
+          <option name="repositoryUrl" value="gitlab.homeword.cn" />
+        </GitlabServer>
+      </list>
+    </option>
+  </component>
+</application>

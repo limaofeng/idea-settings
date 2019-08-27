@@ -5,21 +5,19 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="gql" type="GraphQL" />
       <mapping ext="database" type="PLAIN_TEXT" />
-      <mapping ext="box" type="PLAIN_TEXT" />
-      <mapping ext="text" type="PLAIN_TEXT" />
-      <mapping ext="info" type="PLAIN_TEXT" />
-      <mapping ext="proto" type="PLAIN_TEXT" />
       <mapping ext="property" type="PLAIN_TEXT" />
       <mapping ext="eni" type="PLAIN_TEXT" />
+      <mapping ext="info" type="PLAIN_TEXT" />
+      <mapping ext="box" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
+      <mapping ext="text" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="proto" approved="true" type="PROTO" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
-      <removed_mapping ext="proto" approved="true" type="PROTO" />
+      <removed_mapping ext="proto" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />

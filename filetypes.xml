@@ -8,6 +8,7 @@
       <mapping ext="box" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
+      <mapping ext="proto" type="PLAIN_TEXT" />
       <mapping ext="property" type="PLAIN_TEXT" />
       <mapping ext="eni" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />

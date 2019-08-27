@@ -7,8 +7,9 @@
           <option name="baseDn" value="dc=homeword,dc=cn" />
           <option name="host" value="ldap.homeword.cn" />
           <option name="name" value="whir" />
-          <option name="opened" value="true" />
           <option name="password" value="U+@v7WNk86r8@Uc3" />
+          <option name="port" value="389" />
+          <option name="ssl" value="false" />
           <option name="username" value="cn=admin,dc=homeword,dc=cn" />
         </LdapConnectionInfo>
       </list>

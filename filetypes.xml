@@ -1,9 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".dockerignore" type="Dockerfile" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="gql" type="GraphQL" />
+      <mapping pattern=".dockerfileignore" type="PLAIN_TEXT" />
       <mapping ext="database" type="PLAIN_TEXT" />
       <mapping ext="box" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />

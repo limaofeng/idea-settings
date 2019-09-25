@@ -18,8 +18,8 @@
     <mask>*.*</mask>
     <mask>*.</mask>
     <mask>*</mask>
-    <mask>*.gradle</mask>
     <mask>*.graphqls</mask>
+    <mask>*.gradle</mask>
     <mask>*.java</mask>
   </component>
 </application>

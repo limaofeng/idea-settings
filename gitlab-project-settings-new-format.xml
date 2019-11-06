@@ -518,6 +518,276 @@
           <option name="namespace" value="李茂峰" />
           <option name="sshUrl" value="git@gitlab.homeword.cn:limaofeng/react-form-making.git" />
         </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/docker-compose/dingtalk.git" />
+          <option name="name" value="dingtalk" />
+          <option name="namespace" value="docker-compose" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:docker-compose/dingtalk.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/docs/deploy.git" />
+          <option name="name" value="deploy" />
+          <option name="namespace" value="docs" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:docs/deploy.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/docs/java.git" />
+          <option name="name" value="java" />
+          <option name="namespace" value="docs" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:docs/java.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/docs/tools.git" />
+          <option name="name" value="tools" />
+          <option name="namespace" value="docs" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:docs/tools.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/docs/web.git" />
+          <option name="name" value="web" />
+          <option name="namespace" value="docs" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:docs/web.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/ezoffice/ezoffice_sourcecode_12.5.git" />
+          <option name="name" value="ezoffice_sourcecode_12.5" />
+          <option name="namespace" value="ezoffice" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:ezoffice/ezoffice_sourcecode_12.5.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/ezoffice/huadong_ezoffice_12.3.git" />
+          <option name="name" value="huadong_ezoffice_12.3" />
+          <option name="namespace" value="ezoffice" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:ezoffice/huadong_ezoffice_12.3.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/ezoffice/jinshanyy_12.3.git" />
+          <option name="name" value="jinshanyy_12.3" />
+          <option name="namespace" value="ezoffice" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:ezoffice/jinshanyy_12.3.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/ezoffice/jskeyan.git" />
+          <option name="name" value="JSkeYan" />
+          <option name="namespace" value="ezoffice" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:ezoffice/jskeyan.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/ezoffice/jskeyan12.3.git" />
+          <option name="name" value="JSKeYan12.3" />
+          <option name="namespace" value="ezoffice" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:ezoffice/jskeyan12.3.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/ezoffice/liuyuandongyy_11.2.git" />
+          <option name="name" value="liuyuandongyy_11.2" />
+          <option name="namespace" value="ezoffice" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:ezoffice/liuyuandongyy_11.2.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/ezoffice/mhzxyy_11.5.git" />
+          <option name="name" value="mhzxyy_11.5" />
+          <option name="namespace" value="ezoffice" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:ezoffice/mhzxyy_11.5.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/ezoffice/nxkeyan.git" />
+          <option name="name" value="NXKeYan" />
+          <option name="namespace" value="ezoffice" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:ezoffice/nxkeyan.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/ezoffice/rjlw_12.3.git" />
+          <option name="name" value="rjlw_12.3" />
+          <option name="namespace" value="ezoffice" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:ezoffice/rjlw_12.3.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/ezoffice/sh_dyfybjy_ezoffice_11.2.git" />
+          <option name="name" value="SH_DYFYBJY_EZOFFICE_11.2" />
+          <option name="namespace" value="ezoffice" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:ezoffice/sh_dyfybjy_ezoffice_11.2.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/ezoffice/shdcoa_12.4.git" />
+          <option name="name" value="shdcoa_12.4" />
+          <option name="namespace" value="ezoffice" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:ezoffice/shdcoa_12.4.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/ezoffice/shdlrmyydy_ezoffice_11.2.git" />
+          <option name="name" value="shdlrmyydy_ezoffice_11.2" />
+          <option name="namespace" value="ezoffice" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:ezoffice/shdlrmyydy_ezoffice_11.2.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/ezoffice/shdsrmyy_ezoffice_12.4.git" />
+          <option name="name" value="shdsrmyy_ezoffice_12.4" />
+          <option name="namespace" value="ezoffice" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:ezoffice/shdsrmyy_ezoffice_12.4.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/ezoffice/shhfzyy_ezoffice_12.4.git" />
+          <option name="name" value="shhfzyy_ezoffice_12.4" />
+          <option name="namespace" value="ezoffice" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:ezoffice/shhfzyy_ezoffice_12.4.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/ezoffice/shpfbyy_myd_12.4.git" />
+          <option name="name" value="shpfbyy_myd_12.4" />
+          <option name="namespace" value="ezoffice" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:ezoffice/shpfbyy_myd_12.4.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/ezoffice/sphic_myd_12.4.git" />
+          <option name="name" value="sphic_myd_12.4" />
+          <option name="namespace" value="ezoffice" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:ezoffice/sphic_myd_12.4.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/ezoffice/tjkoqiankeyan.git" />
+          <option name="name" value="TJKoQianKeYan" />
+          <option name="namespace" value="ezoffice" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:ezoffice/tjkoqiankeyan.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/ezoffice/zj_zjdxfsdeyy_ezoffice_12.2.git" />
+          <option name="name" value="ZJ_ZJDXFSDEYY_EZOFFICE_12.2" />
+          <option name="namespace" value="ezoffice" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:ezoffice/zj_zjdxfsdeyy_ezoffice_12.2.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/jfantasy/framework.git" />
+          <option name="name" value="framework" />
+          <option name="namespace" value="jfantasy" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:jfantasy/framework.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/npm/compressing.git" />
+          <option name="name" value="compressing" />
+          <option name="namespace" value="npm" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:npm/compressing.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/npm/strapi.git" />
+          <option name="name" value="strapi" />
+          <option name="namespace" value="npm" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:npm/strapi.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/npm/umi-plugin-apollo.git" />
+          <option name="name" value="umi-plugin-apollo" />
+          <option name="namespace" value="npm" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:npm/umi-plugin-apollo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/oa/webservice.git" />
+          <option name="name" value="webservice" />
+          <option name="namespace" value="oa" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:oa/webservice.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/other/spider.git" />
+          <option name="name" value="spider" />
+          <option name="namespace" value="other" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:other/spider.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/whir/activiti.git" />
+          <option name="name" value="Activiti" />
+          <option name="namespace" value="whir" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:whir/activiti.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/whir/admin.git" />
+          <option name="name" value="admin" />
+          <option name="namespace" value="whir" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:whir/admin.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/whir/charts.git" />
+          <option name="name" value="charts" />
+          <option name="namespace" value="whir" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:whir/charts.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/whir/daily.git" />
+          <option name="name" value="daily" />
+          <option name="namespace" value="whir" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:whir/daily.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/whir/data-sync.git" />
+          <option name="name" value="data-sync" />
+          <option name="namespace" value="whir" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:whir/data-sync.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/whir/evo.git" />
+          <option name="name" value="evo" />
+          <option name="namespace" value="whir" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:whir/evo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/whir/gateway.git" />
+          <option name="name" value="gateway" />
+          <option name="namespace" value="whir" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:whir/gateway.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/whir/mobile.git" />
+          <option name="name" value="mobile" />
+          <option name="namespace" value="whir" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:whir/mobile.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/whir/nuwa.git" />
+          <option name="name" value="Nuwa" />
+          <option name="namespace" value="whir" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:whir/nuwa.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/whir/storage.git" />
+          <option name="name" value="storage" />
+          <option name="namespace" value="whir" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:whir/storage.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/whir/strapi.git" />
+          <option name="name" value="strapi" />
+          <option name="namespace" value="whir" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:whir/strapi.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/whir/suty.git" />
+          <option name="name" value="Suty" />
+          <option name="namespace" value="whir" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:whir/suty.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/whir/web.git" />
+          <option name="name" value="web" />
+          <option name="namespace" value="whir" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:whir/web.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/whir/meeting.git" />
+          <option name="name" value="会议服务" />
+          <option name="namespace" value="whir" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:whir/meeting.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/whir/motion.git" />
+          <option name="name" value="提案服务" />
+          <option name="namespace" value="whir" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:whir/motion.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.homeword.cn/limaofeng/react-form-making.git" />
+          <option name="name" value="react-form-making" />
+          <option name="namespace" value="李茂峰" />
+          <option name="sshUrl" value="git@gitlab.homeword.cn:limaofeng/react-form-making.git" />
+        </ProjectDto>
       </list>
     </option>
     <option name="gitlabServers">

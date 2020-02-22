@@ -2,8 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".dockerignore" type="Dockerfile" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="gql" type="GraphQL" />
       <mapping pattern=".dockerfileignore" type="PLAIN_TEXT" />
       <mapping ext="database" type="PLAIN_TEXT" />
@@ -13,9 +11,6 @@
       <mapping ext="property" type="PLAIN_TEXT" />
       <mapping ext="eni" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />

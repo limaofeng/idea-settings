@@ -1,6 +1,67 @@
 <application>
-  <component name="VimSettings">
-    <state version="4" enabled="false" />
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>test</entry>
+        <entry>User</entry>
+        <entry>user</entry>
+        <entry encoding="base64">XDx7XD4=</entry>
+        <entry>党</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1474161589867">
@@ -16,7 +77,6 @@
         <mark key="^" line="17" column="35" />
         <mark key="." line="17" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/zbsgProjects/services/platform/JavaSource/cn/com/zbsg/api/pharmacy/bean/Medicine.java" timestamp="1474161417273" />
       <file name="$USER_HOME$/framework/cms/JavaSource/com/fantasy/cms/api/CmsController.java" timestamp="1427291270879">
         <mark key="'" line="13" column="41" />
         <mark key="[" line="14" column="0" />
@@ -55,7 +115,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/zbsgProjects/services/platform/JavaSource/cn/com/zbsg/api/doctor/rest/DoctorController.java" timestamp="1474162901356" />
       <file name="$USER_HOME$/framework/pay/JavaSource/org/jfantasy/pay/product/Walletpay.java" timestamp="1474163351954">
         <mark key="'" line="46" column="97" />
         <mark key="[" line="63" column="15" />
@@ -63,8 +122,6 @@
         <mark key="." line="63" column="22" />
         <mark key="^" line="63" column="22" />
       </file>
-      <file name="$USER_HOME$/framework/pay/JavaSource/org/jfantasy/pay/service/PayService.java" timestamp="1474161146564" />
-      <file name="$USER_HOME$/Documents/zbsgProjects/services/platform/JavaSource/cn/com/zbsg/api/doctor/bean/Doctor.java" timestamp="1474162098507" />
       <file name="$USER_HOME$/framework/mall/test/src/com/fantasy/mall/goods/service/GoodsServiceTest.java" timestamp="1416278676922">
         <mark key="[" line="47" column="32" />
       </file>
@@ -108,6 +165,8 @@
       <jump line="0" column="21" filename="/fragment.java" />
       <jump line="50" column="97" filename="$USER_HOME$/framework/pay/JavaSource/org/jfantasy/pay/product/Walletpay.java" />
     </jumps>
+  </component>
+  <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
         <text>payment</text>
@@ -149,6 +208,8 @@
         <text encoding="base64">CiAgICA=</text>
       </register>
     </registers>
+  </component>
+  <component name="VimSearchSettings">
     <search>
       <last-search>党</last-search>
       <last-offset />
@@ -156,61 +217,12 @@
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-search>
-        <entry>test</entry>
-        <entry>User</entry>
-        <entry>user</entry>
-        <entry encoding="base64">XDx7XD4=</entry>
-        <entry>党</entry>
-      </history-search>
-      <history-cmd />
-      <history-expr />
-      <history-input />
-    </history>
-    <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed E</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed D</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed U</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed N</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed H</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed B</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed CLOSE_BRACKET</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed O</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed I</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed P</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
-    <editor>
-      <key-repeat enabled="true" />
-    </editor>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="false" />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
   </component>
 </application>

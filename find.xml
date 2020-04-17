@@ -19,8 +19,8 @@
     <mask>*.gradle</mask>
     <mask>*</mask>
     <mask>pom</mask>
-    <mask>pom.xml</mask>
     <mask>*.java</mask>
+    <mask>pom.xml</mask>
     <mask>*.xml</mask>
   </component>
 </application>

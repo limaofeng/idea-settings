@@ -1,5 +1,9 @@
 <templateSet group="Java Template">
-  <template name="*" value="*&#10; * @Title: ${file_name}&#10; * @Package ${package_name}&#10; * @Description: TODO&#10; * @author syncwt&#10; * @date ${date} ${time}&#10; * @version V1.0&#10; */&#10; " description="" toReformat="false" toShortenFQNames="true" deactivated="true">
+  <template name="*" value="*&#10; * @author $user$&#10; * @version V1.0&#10; * @Title: $title$&#10; * @Description: TODO&#10; * @date $data$ $time$&#10; */&#10; " description="" toReformat="false" toShortenFQNames="true">
+    <variable name="user" expression="user()" defaultValue="" alwaysStopAt="true" />
+    <variable name="title" expression="fileName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="data" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>

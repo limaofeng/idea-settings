@@ -15,12 +15,12 @@
     <mask>*.*</mask>
     <mask>*.</mask>
     <mask>*.graphql</mask>
-    <mask>*.graphqls</mask>
     <mask>pom</mask>
     <mask>*.java</mask>
     <mask>pom.xml</mask>
     <mask>*.xml</mask>
     <mask>*.gradle</mask>
+    <mask>*.graphqls</mask>
     <mask>*</mask>
   </component>
 </application>

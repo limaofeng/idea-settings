@@ -1,5 +1,5 @@
 <templateSet group="Java Template">
-  <template name="*" value="*&#10; * @author $user$&#10; * @version V1.0&#10; * @Title: $title$&#10; * @Description: TODO&#10; * @date $data$ $time$&#10; */&#10; " description="" toReformat="false" toShortenFQNames="true">
+  <template name="*" value="*&#10; * @author $user$&#10; * @version V1.0&#10; * @Title: $title$&#10; * @Description: TODO&#10; * @date $data$ $time$&#10; */&#10; " description="" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="user" expression="user()" defaultValue="" alwaysStopAt="true" />
     <variable name="title" expression="fileName()" defaultValue="" alwaysStopAt="true" />
     <variable name="data" expression="date()" defaultValue="" alwaysStopAt="true" />

@@ -1,0 +1,26 @@
+<application>
+  <component name="libraryTable">
+    <library name="Bundled Protobuf Distribution">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$APPLICATION_PLUGINS_DIR$/protobuf-jetbrains-plugin/lib/protobuf-java-3.6.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Java EE 6-Java EE 6">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="jsp-api">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="sass-stdlib">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>

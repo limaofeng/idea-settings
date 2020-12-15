@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarqube.thuni-h.com/" />
+          <token>df9cdf9adfccdfc8dfc9df99dfccdf98dfccdfccdf99df9edf92df9edf98df9adf92df9adfc9dfc8dfc9df9fdf99df9cdf98df92df92df99dfccdfcfdfc8dfcedfcfdf98dfcfdf92df92df9adfcbdf9a</token>
+          <option name="name" value="sonar" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,28 @@
+<application>
+  <component name="ldapConnections">
+    <option name="ldapConnectionInfos">
+      <list>
+        <LdapConnectionInfo>
+          <option name="auth" value="true" />
+          <option name="baseDn" value="dc=thuni-h,dc=com" />
+          <option name="host" value="ldap.thuni-h.com" />
+          <option name="name" value="thuni-h.com" />
+          <option name="password" value="U+@v7WNk86r8@Uc3" />
+          <option name="port" value="389" />
+          <option name="ssl" value="false" />
+          <option name="username" value="cn=admin,dc=thuni-h,dc=com" />
+        </LdapConnectionInfo>
+        <LdapConnectionInfo>
+          <option name="auth" value="true" />
+          <option name="baseDn" value="dc=homeword,dc=cn" />
+          <option name="host" value="ldap.homeword.cn" />
+          <option name="name" value="homeword.cn" />
+          <option name="password" value="U+@v7WNk86r8@Uc3" />
+          <option name="port" value="389" />
+          <option name="ssl" value="false" />
+          <option name="username" value="cn=admin,dc=homeword,dc=cn" />
+        </LdapConnectionInfo>
+      </list>
+    </option>
+  </component>
+</application>

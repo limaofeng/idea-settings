@@ -1,0 +1,18 @@
+<application>
+  <component name="WebDeploymentTransportHostTargets">
+    <option name="stateHostTargets">
+      <list>
+        <WebDeploymentTransportHostTarget>
+          <option name="hostId" value="05b23aae-d14c-4889-99c9-5cda3e552216" />
+          <option name="target">
+            <TransportTarget>
+              <option name="id" value="f2c8efff-931a-4e9e-ad47-edd15028b0d9" />
+              <id>f2c8efff-931a-4e9e-ad47-edd15028b0d9</id>
+            </TransportTarget>
+          </option>
+          <option name="targetPath" value="/mnt/tomcat7/webapps/" />
+        </WebDeploymentTransportHostTarget>
+      </list>
+    </option>
+  </component>
+</application>

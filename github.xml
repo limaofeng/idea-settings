@@ -1,0 +1,10 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="d4383bf5-77a2-4959-abc8-e001cee95797" name="limaofeng@msn.com">
+      <server host="github.com" />
+    </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="PRIVATE_GIST" value="false" />
+  </component>
+</application>

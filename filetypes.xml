@@ -1,9 +1,24 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="main.kts" type="Kotlin" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
+      <mapping pattern=".dockerignore" type="Dockerfile" />
+      <mapping ext="gql" type="GraphQL" />
+      <mapping pattern=".dockerfileignore" type="PLAIN_TEXT" />
+      <mapping ext="eni" type="PLAIN_TEXT" />
+      <mapping ext="box" type="PLAIN_TEXT" />
+      <mapping ext="property" type="PLAIN_TEXT" />
+      <mapping ext="database" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
+      <mapping ext="info" type="PLAIN_TEXT" />
+      <mapping ext="text" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="proto" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
 </application>

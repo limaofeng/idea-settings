@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".dockerignore" type="Dockerfile" />
       <mapping pattern=".prettierrc" type="JSON" />
+      <mapping ext="graphqlconfig" type="JSON" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".dockerfileignore" type="PLAIN_TEXT" />
       <mapping ext="eni" type="PLAIN_TEXT" />

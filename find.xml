@@ -19,10 +19,10 @@
     <mask>*.graphql</mask>
     <mask>pom</mask>
     <mask>pom.xml</mask>
-    <mask>*.gradle</mask>
     <mask>*.graphqls</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.gradle</mask>
     <mask>*</mask>
   </component>
 </application>

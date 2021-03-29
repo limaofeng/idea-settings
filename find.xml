@@ -19,9 +19,9 @@
     <mask>pom.xml</mask>
     <mask>*.graphqls</mask>
     <mask>*.xml</mask>
-    <mask>*.gradle</mask>
     <mask>*.proto</mask>
     <mask>*.java</mask>
+    <mask>*.gradle</mask>
     <mask>*</mask>
   </component>
 </application>

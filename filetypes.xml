@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern=".dockerignore" type="Dockerfile" />
-      <mapping ext="graphqlconfig" type="JSON" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".dockerfileignore" type="PLAIN_TEXT" />
       <mapping ext="eni" type="PLAIN_TEXT" />

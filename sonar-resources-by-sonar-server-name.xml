@@ -1,0 +1,284 @@
+<application>
+  <component name="sonar-resources-application-component">
+    <option name="sonarResourcesBySonarServerName">
+      <map>
+        <entry key="Sonarqube">
+          <value>
+            <list>
+              <Resource>
+                <option name="key" value="him_base:web" />
+                <option name="name" value="him_base:web" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="him_bmp:him-bmp" />
+                <option name="name" value="him_bmp:him-bmp" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="hmc:integrated" />
+                <option name="name" value="hmc:integrated" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="hmc_document:document-backend" />
+                <option name="name" value="hmc_document:document-backend" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="hmc_document:document-frontend" />
+                <option name="name" value="hmc_document:document-frontend" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="hmc_document:microfrontend-slave" />
+                <option name="name" value="hmc_document:microfrontend-slave" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="products_adverse-events:adverseevent" />
+                <option name="name" value="products_adverse-events:adverseevent" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="products_budget:web" />
+                <option name="name" value="products_budget:web" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="products_common:research" />
+                <option name="name" value="products_common:research" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="products_union:cms" />
+                <option name="name" value="products_union:cms" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="products_union:security" />
+                <option name="name" value="products_union:security" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="products_union:web" />
+                <option name="name" value="products_union:web" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="products_union:wisdom-union-plat" />
+                <option name="name" value="products_union:wisdom-union-plat" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="tianting:arsenal" />
+                <option name="name" value="tianting:arsenal" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="tianting:cms" />
+                <option name="name" value="tianting:cms" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="tianting:common" />
+                <option name="name" value="tianting:common" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="tianting:communication-center" />
+                <option name="name" value="tianting:communication-center" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="tianting:communication-email" />
+                <option name="name" value="tianting:communication-email" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="tianting:dbm" />
+                <option name="name" value="tianting:dbm" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="tianting:flowable" />
+                <option name="name" value="tianting:flowable" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="tianting:framework" />
+                <option name="name" value="tianting:framework" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="tianting:gateway" />
+                <option name="name" value="tianting:gateway" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="tianting:import-export" />
+                <option name="name" value="tianting:import-export" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="tianting:mobilework" />
+                <option name="name" value="tianting:mobilework" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="tianting:notice" />
+                <option name="name" value="tianting:notice" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="tianting:security" />
+                <option name="name" value="tianting:security" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="tianting:storage" />
+                <option name="name" value="tianting:storage" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="tianting:vcs" />
+                <option name="name" value="tianting:vcs" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="tianting_templates:javaweb" />
+                <option name="name" value="tianting_templates:javaweb" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="tianting_templates:microfrontend-admin" />
+                <option name="name" value="tianting_templates:microfrontend-admin" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="tianting_templates:microfrontend-demo" />
+                <option name="name" value="tianting_templates:microfrontend-demo" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="tianting_templates:microfrontend-slave" />
+                <option name="name" value="tianting_templates:microfrontend-slave" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="tianting_templates:mobile-demo" />
+                <option name="name" value="tianting_templates:mobile-demo" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="tianting_templates:web-demo" />
+                <option name="name" value="tianting_templates:web-demo" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="whir:admin" />
+                <option name="name" value="whir:admin" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="whir:admin-budget-sk" />
+                <option name="name" value="whir:admin-budget-sk" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="whir:admin-workers-congress" />
+                <option name="name" value="whir:admin-workers-congress" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="whir:budget" />
+                <option name="name" value="whir:budget" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="whir:budget-front" />
+                <option name="name" value="whir:budget-front" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="whir:disciplinary-mobile" />
+                <option name="name" value="whir:disciplinary-mobile" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="whir:labour-union-front" />
+                <option name="name" value="whir:labour-union-front" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="whir:labour-union-plat" />
+                <option name="name" value="whir:labour-union-plat" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="whir:mobile" />
+                <option name="name" value="whir:mobile" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="whir:mobile-demo" />
+                <option name="name" value="whir:mobile-demo" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="whir:mobile-party" />
+                <option name="name" value="whir:mobile-party" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="whir:mobile-workers-congress" />
+                <option name="name" value="whir:mobile-workers-congress" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="whir:party" />
+                <option name="name" value="whir:party" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="whir:security" />
+                <option name="name" value="whir:security" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="whir:smartbudget" />
+                <option name="name" value="whir:smartbudget" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="whir:strapi" />
+                <option name="name" value="whir:strapi" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="whir:wisdom-union-front" />
+                <option name="name" value="whir:wisdom-union-front" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="whir:wisdom-union-front_old" />
+                <option name="name" value="whir:wisdom-union-front_old" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="whir:wisdom-union-plat" />
+                <option name="name" value="whir:wisdom-union-plat" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="whir_flowabe:flowable" />
+                <option name="name" value="whir_flowabe:flowable" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

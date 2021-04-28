@@ -22,8 +22,8 @@
     <mask>*.xml</mask>
     <mask>*.proto</mask>
     <mask>*.gradle</mask>
-    <mask>*</mask>
     <mask>*.graphqls</mask>
+    <mask>*</mask>
     <mask>*.java</mask>
   </component>
 </application>

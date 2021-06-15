@@ -19,10 +19,10 @@
     <mask>pom.xml</mask>
     <mask>*.proto</mask>
     <mask>*.xml</mask>
-    <mask>*.gradle</mask>
     <mask>*.graphqls</mask>
     <mask>*.java</mask>
     <mask>*.java</mask>
+    <mask>*.gradle</mask>
     <mask>*</mask>
   </component>
 </application>

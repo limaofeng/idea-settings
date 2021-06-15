@@ -20,9 +20,9 @@
     <mask>*.proto</mask>
     <mask>*.xml</mask>
     <mask>*.graphqls</mask>
+    <mask>*.java</mask>
+    <mask>*.java</mask>
     <mask>*.gradle</mask>
-    <mask>*.java</mask>
-    <mask>*.java</mask>
     <mask>*</mask>
   </component>
 </application>

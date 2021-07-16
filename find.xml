@@ -21,11 +21,11 @@
     <mask>pom.xml</mask>
     <mask>*.proto</mask>
     <mask>*.xml</mask>
-    <mask>*.graphqls</mask>
     <mask>*.gradle</mask>
     <mask>*.java</mask>
     <mask>*.java</mask>
     <mask>*.yml</mask>
+    <mask>*.graphqls</mask>
     <mask>*</mask>
   </component>
 </application>
